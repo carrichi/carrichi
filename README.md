@@ -1,8 +1,4 @@
-## Heeeyyy 👋
-
-<!--
-**RobertoCarrichi/RobertoCarrichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## _Welcome to my GitHub!_ 👋
 
 I'm a student with a very big proyect about Psicology and Artificial Intelligence.
 
