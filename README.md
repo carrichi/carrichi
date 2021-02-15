@@ -1,16 +1,20 @@
-### Hi there 👋
+## Heeeyyy 👋
 
 <!--
 **RobertoCarrichi/RobertoCarrichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm a student with a very big proyect about Psicology and Artificial Intelligence.
+
+### About me 
+
+- 🔭 I’m currently working on MyDiaryLife (the very big proyect)
+- 💬 Ask me about Java, Html, Css and Linux.
+- 🌱 I’m currently learning Django.
+- 👯 I’m looking to collaborate on MyDiaryLife Corporation.
+- 🤔 I’m looking for help with Databases and Artificial Intelligence.
+- 📫 How to reach me: carrichiroberto@gmail.com
+
+## My stats
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarrichi&layout=compact)
+![My languages](https://github-readme-stats.vercel.app/api?username=RobertoCarrichi&show_icons=true)
