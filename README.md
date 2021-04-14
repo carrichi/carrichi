@@ -1,4 +1,4 @@
-## _Welcome to my GitHub!_ 👋
+## _Hey!_ 👋
 
 I'm a student with a very big proyect about Psicology and Artificial Intelligence.
 
