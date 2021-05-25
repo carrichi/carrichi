@@ -6,7 +6,7 @@ I'm a student with a very big proyect about Psicology and Artificial Intelligenc
 
 - 🔭 I’m currently working on MyDiaryLife (the very big proyect)
 - 💬 Ask me about Java, Html, Css and Linux.
-- 🌱 I’m currently learning Vue.js and Neovim.
+- 🌱 I’m currently learning JavaScript and Neovim.
 - 🤔 I’m looking for help with Databases and Artificial Intelligence.
 - 📫 How to reach me: carrichiroberto@gmail.com
 
