@@ -11,5 +11,5 @@ I'm a student with a very big proyect about Psicology and Artificial Intelligenc
 - 📫 How to reach me: carrichiroberto@gmail.com
 
 ## 🎓 My stats
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarrichi&layout=compact)
-![My languages](https://github-readme-stats.vercel.app/api?username=RobertoCarrichi&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact)
+![My languages](https://github-readme-stats.vercel.app/api?username=carrichi&show_icons=true)
