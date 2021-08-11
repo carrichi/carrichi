@@ -1,6 +1,10 @@
-## _Hey!_ 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54015671/128981678-b890d93b-d43a-4949-ba6a-7a6bd79972f7.jpeg" alt="Meethelight banner">
+</p>
 
-I'm a student with a very big proyect about Psicology and Artificial Intelligence.
+# _**Heeeeeey!**_ 👋
+
+I'm a little computing engineer with a very big project about Psychology and Artificial Intelligence.
 
 ### 💭 About me
 
