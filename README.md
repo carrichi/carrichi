@@ -10,5 +10,5 @@
   <img width="58%" align="center" src="https://github-readme-stats.vercel.app/api?username=carrichi&show_icons=true&theme=material-palenight&border_color=a2cbf1&hide=issues&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=material-palenight&border_color=a2cbf1" />
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=material-palenight&border_color=a2cbf1" />
 </a>
