@@ -16,7 +16,6 @@
 		<a href="">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=holi-theme&border=61dafb&hide_border=true" alt="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=monokai-metalliant&border=61dafb&hide_border=true" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=blueberry_duo&border=61dafb&hide_border=true" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=blueberry&border=61dafb&hide_border=true" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=react&border=61dafb&hide_border=true" alt="">
