@@ -7,7 +7,7 @@
 ![README](https://user-images.githubusercontent.com/54015671/128989231-1ee02c43-429e-4f23-abe3-0ddd741e34f9.png)
 
 <a href="https://carrichi.com">
-  <img width="57%" align="center" src="https://github-readme-stats.vercel.app/api?username=carrichi&show_icons=true&theme=holi-theme&border_color=a2cbf1&hide=issues&include_all_commits=true&hide_border=true" />
+  <img width="57%" align="center" src="https://github-readme-stats.vercel.app/api?username=carrichi&show_icons=true&theme=nightowl&border_color=a2cbf1&hide=issues&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=holi-theme&border_color=a2cbf1&hide_border=true" />
