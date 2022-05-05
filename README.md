@@ -1,5 +1,5 @@
 ![README](https://user-images.githubusercontent.com/54015671/128989231-1ee02c43-429e-4f23-abe3-0ddd741e34f9.png)
-[![Typing SVG]](https://readme-typing-svg.herokuapp.com/?lines=Heeey!+I'm+Carrichi.;I'm+a+little+mexa&center=true&size=30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Heeey!+I'm+Carrichi.;I'm+a+little+mexa&center=true&size=30)
 <a href="https://github.com/carrichi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carrichi&show_icons=true&theme=material-palenight&border_color=a2cbf1&hide=issues&include_all_commits=true" />
 </a>
