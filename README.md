@@ -17,6 +17,6 @@
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
 	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
-		<img src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=materal-palenight&border=61dafb&hide_border=true" alt="">
+		<img src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
 </div>
