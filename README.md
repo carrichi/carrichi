@@ -16,17 +16,15 @@
 		<a href="">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=holi-theme&border=61dafb&hide_border=true" alt="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=monokei-metalliant&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=monokai-metalliant&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=blueberry_duo&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=blueberry&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=react&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=nord&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=nightrowl&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=prussian&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=dracula&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=synthwave&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=tokyonight&border=61dafb&hide_border=true" alt="">
 		</a>
-		monokai-metalliant 
-		blueberry_duo
-		blueberry	
-		react
-		nord
-		nightrowl
-		prussian
-		dracula
-		synthwave
-		tokyonight
 </div>
-holi-theme
