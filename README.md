@@ -12,3 +12,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=material-palenight&border_color=a2cbf1" />
 </a>
+<div align="center">
+	<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=react&border=61dafb&hide_border=true"></a>
+</div>
