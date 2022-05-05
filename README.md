@@ -13,7 +13,10 @@
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=nightowl&border_color=a2cbf1&hide_border=true" />
 </a>
 <div align="center">
-		<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=nightowl&border=61dafb&hide_border=true" alt="">
-		</a>
+	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=nightowl&border=61dafb&hide_border=true" alt="">
+	</a>
+	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
+		<img src="https://activity-graph.herokuapp.com/?user=carrichi&theme=nightowl&border=61dafb&hide_border=true" alt="">
+	</a>
 </div>
