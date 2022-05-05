@@ -10,22 +10,21 @@
   <img width="57%" align="center" src="https://github-readme-stats.vercel.app/api?username=carrichi&show_icons=true&theme=material-palenight&border_color=a2cbf1&hide=issues&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=material-palenight&border_color=a2cbf1" />
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=material-palenight&border_color=a2cbf1&hide_border=true" />
 </a>
 <div align="center">
 		<a href="">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=holi-theme&border=61dafb&hide_border=true" alt="">
 		</a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=holi-theme&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=monokai-metallian&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=blueberry_duo&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=blueberry&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=react&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=nord&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=nightrowl&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=prussian&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=dracula&border=61dafb&hide_border=true"></a>
-		<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=synthwave&border=61dafb&hide_border=true"></a>
-			<a href="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=tokyonight&border=61dafb&hide_border=true"></a>
+		holi-theme	monokai-metalliant 
+		blueberry_duo
+		blueberry	
+		react
+		nord
+		nightrowl
+		prussian
+		dracula
+		synthwave
+		tokyonight
 </div>
