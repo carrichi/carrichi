@@ -16,8 +16,9 @@
 		<a href="">
 			<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=holi-theme&border=61dafb&hide_border=true" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=monokei-metalliant&border=61dafb&hide_border=true" alt="">
 		</a>
-		holi-theme	monokai-metalliant 
+		monokai-metalliant 
 		blueberry_duo
 		blueberry	
 		react
@@ -28,3 +29,4 @@
 		synthwave
 		tokyonight
 </div>
+holi-theme
