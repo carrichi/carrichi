@@ -14,7 +14,7 @@
 </a>
 <div align="center">
 	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
-		<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
+		<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
 </div>
 <div align="center">
