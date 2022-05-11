@@ -1,37 +1,37 @@
 [
-	{
-		"index" : 0,
-		"name" : "Swimming",
-		"artist" : "Mac Miller",
-		"description" : "Es uno de los álbumes más influyentes de mi vida, desde una etapa de depresión, de salvación y del nacimiento de el proyecto más grande en mi vida.",
-		"url" : "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk?si=Do0mdEEKTye9r-qtALmyDw"
-	},
-	{
-		"index" : 1,
-		"name" : "Unicornio",
-		"artist" : "Nanpa Básico",
-		"description" : "Un álbum que siempre me acompañó en una de las etapas de mayor estés en mi vida y también una de las razones por las que la relación con mi hermana mejoró como nunca antes.",
-		"url" : "https://open.spotify.com/album/274WZSyHZjFSL4ucKFnVeQ?si=a1a9d9e4677e47c4"
-	},
-	{
-		"index" : 2,
-		"name" : "Smile",
-		"artist" : "Charles Ans",
-		"description" : "Es uno de los álbumes con los que más letras he experimentado en vida propia.",
-		"url" : "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu?si=c1300dc5b7504461"
-	},
-	{
-		"index" : 3,
-		"name" : "No Pressure",
-		"artist" : "Logic",
-		"description" : "Ese álbum que sacó mi lado más introspectivo durante una etapa difícil.",
-		"url" : "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8?si=0ee5994a69164f37"
-	},
-	{
-		"index" : 4,
-		"name" : "No Pressure",
-		"artist" : "Logic",
-		"description" : "Ese álbum que sacó mi lado más introspectivo durante una etapa difícil.",
-		"url" : "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=1aec3a5d4bda48e2"
-	}
+  {
+    "index": 0,
+    "name": "Swimming",
+    "artist": "Mac Miller",
+    "description": "Es uno de los álbumes más influyentes de mi vida, desde una etapa de depresión, de salvación y del nacimiento de el proyecto más grande en mi vida.",
+    "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk?si=Do0mdEEKTye9r-qtALmyDw"
+  },
+  {
+    "index": 1,
+    "name": "Unicornio",
+    "artist": "Nanpa Básico",
+    "description": "Un álbum que siempre me acompañó en una de las etapas de mayor estés en mi vida y también una de las razones por las que la relación con mi hermana mejoró como nunca antes.",
+    "url": "https://open.spotify.com/album/274WZSyHZjFSL4ucKFnVeQ?si=a1a9d9e4677e47c4"
+  },
+  {
+    "index": 2,
+    "name": "Smile",
+    "artist": "Charles Ans",
+    "description": "Es uno de los álbumes con los que más letras he experimentado en vida propia.",
+    "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu?si=c1300dc5b7504461"
+  },
+  {
+    "index": 3,
+    "name": "No Pressure",
+    "artist": "Logic",
+    "description": "Ese álbum que sacó mi lado más introspectivo durante una etapa difícil.",
+    "url": "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8?si=0ee5994a69164f37"
+  },
+  {
+    "index": 4,
+    "name": "GO:OD AM",
+    "artist": "Mac Miller",
+    "description": "Ese álbum que sacó mi lado más introspectivo durante una etapa difícil.",
+    "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=1aec3a5d4bda48e2"
+  }
 ]

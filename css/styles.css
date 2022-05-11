@@ -1,0 +1,45 @@
+/* Mobile S */
+@media only screen and (max-width: 320px) {
+  * {
+    background-color: blue;
+  }
+}
+/* Mobile M */
+@media only screen and (min-width: 321px) and (max-width: 375px) {
+  * {
+    background-color: pink;
+  }
+}
+/* Mobile L */
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+  * {
+    background-color: hotpink;
+  }
+}
+/* Tablet */
+@media only screen and (min-width: 426px) and (max-width: 768px) {
+  * {
+    background-color: cyan;
+  }
+}
+/* Laptop */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  * {
+    background-color: darkgrey;
+  }
+}
+/* Laptop L 2k*/
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+  * {
+    background-color: #7D1E6A;
+	color: #FFFFFF;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+  }
+}
+/* 4k */
+@media only screen and (min-width: 1441px) and (max-width: 2560px) {
+  * {
+    background-color: aqua;
+  }
+}
