@@ -23,9 +23,9 @@
 	</a>
 </div>
 
-<p>
+<b>
 I have experiencie with...
-</p>
+</b>
 <div align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
@@ -41,9 +41,9 @@ I have experiencie with...
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="">
 </div>
 
-<p>
+<b>
 	I'm learning...
-</p>
+</b>
 <div align="center">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="">
@@ -55,9 +55,9 @@ I have experiencie with...
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="">
 </div>
 
-<p>
+<b>
 	More about me?
-</p>
+</b>
 <a href="https://www.linkedin.com/in/robertocarrichi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
 </a>
