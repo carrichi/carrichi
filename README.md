@@ -58,9 +58,11 @@ I have experiencie with...
 <b>
 	More about me?
 </b>
+<div>
 <a href="https://www.linkedin.com/in/robertocarrichi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
 </a>
 <a href="https://open.spotify.com/user/carrichiroberto?si=944730e6781e4608" target="_blank">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="">
 </a>
+</div>
