@@ -55,7 +55,7 @@ I have experiencie with...
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="">
 </div>
 
-<b>
+<b style="margin: 0 20px">
 	More about me?
 </b>
 <div>
