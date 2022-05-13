@@ -23,7 +23,7 @@
 	</a>
 </div>
 
-<div>
+<div style="margin-bottom: 20px;">
 <b>
 I have experiencie with...
 </b>
