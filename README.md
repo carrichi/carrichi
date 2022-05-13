@@ -64,7 +64,7 @@ I have experiencie with...
 	More about me?
 </b>
 
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/robertocarrichi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
 </a>
