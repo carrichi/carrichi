@@ -23,8 +23,6 @@
 	</a>
 </div>
 
-<!--> My habilities</!-->
-
 I have experiencie with...
 <img src=" 	https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="">
 <img src=" 	https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="">
@@ -64,7 +62,7 @@ I'm learning...
 <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="">
 
 More about me?
-<a href="https://www.linkedin.com/in/robertocarrichi/">
+<a href="https://www.linkedin.com/in/robertocarrichi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
 </a>
 <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="">
