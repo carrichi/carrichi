@@ -23,9 +23,11 @@
 	</a>
 </div>
 
+<div>
 <b>
 I have experiencie with...
 </b>
+</div>
 <div align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
@@ -38,6 +40,7 @@ I have experiencie with...
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="">
 </div>
+<br>
 
 <div>
 <b>
