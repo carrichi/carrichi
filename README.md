@@ -17,16 +17,16 @@
 		<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
 </div> -->
-<!-- <div align="center">
-</div> -->
+<div align="center">
 	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
+</div>
 
 <p>
 I have experiencie with...
 </p>
-<p>
+<div align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">
@@ -39,7 +39,7 @@ I have experiencie with...
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="">
-</p>
+</div>
 
 <p>
 	I'm learning...
