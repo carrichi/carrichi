@@ -43,7 +43,7 @@ I have experiencie with...
 
 <b>
 	I'm learning...
-</div>
+</b>
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
@@ -57,6 +57,8 @@ I have experiencie with...
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> -->
 <!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt=""> -->
 </div>
+
+<br>
 
 <b>
 	More about me?
