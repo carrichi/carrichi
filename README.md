@@ -12,11 +12,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrichi&layout=compact&theme=material-palenight&border_color=a2cbf1&hide_border=true" />
 </a>
-<div align="center">
+<!-- <div align="center">
 	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
 		<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
-</div>
+</div> -->
 <div align="center">
 	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
