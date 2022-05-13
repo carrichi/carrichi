@@ -40,10 +40,8 @@ I have experiencie with...
 </div>
 <br>
 
-<div>
 <b>
 	I'm learning...
-</b>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
