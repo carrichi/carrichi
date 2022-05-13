@@ -1,6 +1,7 @@
 <h1 align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Heeey!+I'm+Carrichi.+👋;I'm+a+Mexa.+🇲🇽&center=true&vCenter=true&size=40&duration=4300&font=Oleo+Script&color=C4DDFFFF" alt="">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Heeey!+I'm+Carrichi.+👋;I'm+a+Mexa+developer.+🇲🇽&center=true&vCenter=true&size=40&duration=4300&font=Oleo+Script&color=C4DDFFFF" alt="">
+		<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 	</a>
 </h1>
 
@@ -50,9 +51,9 @@ I have experiencie with...
 <!-- <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt=""> -->
 <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt=""> -->
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> -->
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="">
 </div>
 
 <b>
