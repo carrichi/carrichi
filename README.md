@@ -26,6 +26,7 @@
 <b>
 I have experiencie with...
 </b>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
@@ -43,6 +44,7 @@ I have experiencie with...
 <b>
 	I'm learning...
 </div>
+
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="">
@@ -59,6 +61,7 @@ I have experiencie with...
 <b>
 	More about me?
 </b>
+
 <div>
 <a href="https://www.linkedin.com/in/robertocarrichi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
