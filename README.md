@@ -1,7 +1,6 @@
 <h1 align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Heeey!+I'm+Carrichi.+👋;I'm+a+Mexa+developer.+🇲🇽&center=true&vCenter=true&size=40&duration=4300&font=Oleo+Script&color=C4DDFFFF" alt="">
-		<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 	</a>
 </h1>
 
