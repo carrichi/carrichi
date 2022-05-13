@@ -38,6 +38,7 @@ I have experiencie with...
 <!-- <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt=""> -->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/sql?style=for-the-badge&logo=sql&logoColor=white" alt="">
 </div>
 <br>
 
