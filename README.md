@@ -17,11 +17,11 @@
 		<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
 </div> -->
-<div align="center">
+<!-- <div align="center">
+</div> -->
 	<a href="http://github-readme-streak-stats.herokuapp.com/demo/">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrichi&theme=material-palenight&border=61dafb&hide_border=true" alt="">
 	</a>
-</div>
 
 <p>
 I have experiencie with...
